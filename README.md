@@ -2,6 +2,7 @@
 
 Work for AED to PUCGO
 Atividade realizada para disciplina de redes 2.
+Linguagem C/C++
 
 
 --Endereçamento com classes
